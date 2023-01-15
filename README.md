@@ -16,10 +16,6 @@ To be used properly with QMK, this repository should be nested like so: `qmk_fir
 - dynamic macros? have leds indicate when recording, etc
 - add screenshot of layers to README?
 
-### NOTE:
-
-I'll need to free up some space in my hex files before I can add much more. I think I can go in and disable some lighting animations or something and that will help a lot. just google how to make more space.
-
 ## How to flash to board:
 
 - edit keymap
