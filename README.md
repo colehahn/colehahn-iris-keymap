@@ -15,6 +15,7 @@ To be used properly with QMK, this repository should be nested like so: `qmk_fir
 - scrolling for using mouse
 - swap hands for when using mouse
 - dynamic macros? have leds indicate when recording, etc
+- save preferred color instead of swapping back to red
 
 ## How to flash to board:
 
