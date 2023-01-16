@@ -8,13 +8,13 @@ To be used properly with QMK, this repository should be nested like so: `qmk_fir
 
 - Shift key is hold for shift, tap for caps_word, and double tap for caps lock
 - leds indicate current layer
+- shift + backspace = delete ([taken from here](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_advanced_keycodes.md#user-content-shift--backspace-for-delete-idshift-backspace-for-delete))
 
 ## Things I want to add:
 
 - scrolling for using mouse
 - swap hands for when using mouse
 - dynamic macros? have leds indicate when recording, etc
-- add screenshot of layers to README?
 
 ## How to flash to board:
 
